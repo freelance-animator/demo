@@ -1,3 +1,7 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
 #sync1 .item {
     padding: 10px 10px;
     color: #FFF;
